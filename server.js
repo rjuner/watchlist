@@ -2,6 +2,14 @@
 // Server.js - This file is the initial starting point for the Node/Express server.
 // *********************************************************************************
 
+var Sequelize = require('sequelize'), 
+	connection; 
+if()
+
+
+
+
+
 // Dependencies
 // =============================================================
 var express 	= require('express');
